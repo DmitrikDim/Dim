@@ -1,0 +1,11 @@
+*.classpath
+*.xml
+*.log
+*.lock
+*.project
+*.markers
+*.svnProviderState
+*.index
+*.zip
+*.rar
+*.properties
